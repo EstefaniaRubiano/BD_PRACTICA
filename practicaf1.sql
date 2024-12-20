@@ -88,4 +88,4 @@ create table VOLAR (
   passatger varchar(20) NOT NULL,
   vol varchar(9) NOT NULL,
   seient varchar(5) NULL
-)
+);
