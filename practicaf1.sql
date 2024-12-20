@@ -10,7 +10,6 @@
 
 -- Creació de les taules
 
---Borrar las tablas anteriores 
 drop table if exists COMPANYIA;
 drop table if exists AVIO;
 drop table if exists AEROPORT;
